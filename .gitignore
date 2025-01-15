@@ -1,1 +1,3 @@
 /target
+/documents/**
+.DS_STORE
