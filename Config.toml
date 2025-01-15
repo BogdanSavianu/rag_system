@@ -1,0 +1,8 @@
+[models]
+embedding_model = "text-embedding-ada-002"
+rag_model = "gpt-4o-mini"
+
+[documents]
+documents_dir = "documents"
+pdf1 = "Moore's_Law_For_Everything.pdf"
+pdf2 = "Modern_Physics.pdf"
